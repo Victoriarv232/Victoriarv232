@@ -1,10 +1,11 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F70080&center=true&vCenter=true&width=435&lines=💻+Olá!+Eu+sou+a+Victória+Resende." alt="Typing SVG" />
-</p>
-
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Ol%C3%A1!+Eu+sou+a+Vict%C3%B3ria+Resende+%CB%99%E1%B5%95%CB%99+%E2%8A%B9" alt="Typing SVG">
+  </a>
+</div>
 
 <h2>☕ Seja bem-vindo(a) ao meu GitHub!</h2>  
-<p>Me chamo <strong style="color:#F70080;">Victória Resende Vieira</strong>, tenho 19 anos e estou cursando o 3º semestre de <strong>Engenharia de Software na UDF</strong>, em Brasília-DF. <br/>
+<p>Me chamo <strong>Victória Resende Vieira</strong>, tenho 19 anos e estou cursando o 3º semestre de <strong>Engenharia de Software na UDF</strong>, em Brasília-DF. <br/>
 Sou extremamente apaixonada e entusiasmada com a tecnologia e estou sempre aprendendo coisas novas e aprimorando meus conhecimentos!</p>
 
 <p align="left">
@@ -50,5 +51,7 @@ Sou extremamente apaixonada e entusiasmada com a tecnologia e estou sempre apren
 </div>
 
 ---
+<p align="center">
+  <img src="https://github.com/Victoriarv232/Victoriarv232/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
-![snake gif](https://github.com/Victoriarv232/Victoriarv232/blob/output/github-contribution-grid-snake-dark.svg)
