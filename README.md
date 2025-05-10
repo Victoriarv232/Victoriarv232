@@ -1,7 +1,10 @@
-# 💻Olá! Eu sou a Victória Resende.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F70080&center=true&vCenter=true&width=435&lines=💻+Olá!+Eu+sou+a+Victória+Resende." alt="Typing SVG" />
+</p>
 
-<h2>☕ Seja bem-vindo(a) ao meu GitHub!</h2>   
-<p>Me chamo <strong>Victória Resende Vieira</strong>, tenho 19 anos e estou cursando o 3º semestre de <strong>Engenharia de Software na UDF</strong>, em Brasília-DF. <br/>
+
+<h2>☕ Seja bem-vindo(a) ao meu GitHub!</h2>  
+<p>Me chamo <strong style="color:#F70080;">Victória Resende Vieira</strong>, tenho 19 anos e estou cursando o 3º semestre de <strong>Engenharia de Software na UDF</strong>, em Brasília-DF. <br/>
 Sou extremamente apaixonada e entusiasmada com a tecnologia e estou sempre aprendendo coisas novas e aprimorando meus conhecimentos!</p>
 
 <p align="left">
