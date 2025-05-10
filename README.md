@@ -4,6 +4,18 @@
 <p>Me chamo <strong>Victória Resende Vieira</strong>, tenho 19 anos e estou cursando o 3º semestre de <strong>Engenharia de Software na UDF</strong>, em Brasília-DF. <br/>
 Sou extremamente apaixonada e entusiasmada com a tecnologia e estou sempre aprendendo coisas novas e aprimorando meus conhecimentos!</p>
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/victoriarv" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="victoriaresendv@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.instagram.com/vivi.r.v" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
+
 ---
 
 <p align="center">
@@ -81,3 +93,4 @@ Sou extremamente apaixonada e entusiasmada com a tecnologia e estou sempre apren
     style="margin-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </p>
+
