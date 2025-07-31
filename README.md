@@ -5,7 +5,7 @@
 </div>
 
 <h2>☕ Seja bem-vindo(a) ao meu GitHub!</h2>  
-<p>Me chamo <strong>Victória Resende Vieira</strong>, tenho 19 anos e estou cursando o 3º semestre de <strong>Engenharia de Software na UDF</strong>, em Brasília-DF. <br/>
+<p>Me chamo <strong>Victória Resende Vieira</strong>, tenho 19 anos e estou cursando o 4º semestre de <strong>Engenharia de Software na UDF</strong>, em Brasília-DF. <br/>
 Sou extremamente apaixonada e entusiasmada com a tecnologia e estou sempre aprendendo coisas novas e aprimorando meus conhecimentos!</p>
 
 <p align="left">
