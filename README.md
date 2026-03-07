@@ -23,11 +23,6 @@ Sou extremamente apaixonada e entusiasmada com a tecnologia e estou sempre apren
 ---
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victoriarv232&layout=donut&theme=radical" 
-    alt="Top Langs" 
-    height="200"
-  />
   &nbsp;&nbsp;&nbsp;
   <img
     src="https://i.pinimg.com/originals/7b/c9/79/7bc97918ccb4f3f4d3ce7db15848733c.gif"
